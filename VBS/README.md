@@ -5,6 +5,7 @@
 
 ### CONTENTS:
 [+] LOOP.vbs - Ein Script was eine Box erzeigt die man nur über den Task-Manager schließen/beenden kann!
+
 [+] key.vbs - Ein Script was deinen Windows Lizensschlüssel/Licencekey sowie deinen Officekey ausliest und zur zwischenablage kopiert!
 
 ### LICENSE:
