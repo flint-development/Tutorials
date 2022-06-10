@@ -1,0 +1,1 @@
+ipconfig /all > %ipconfig /all%Rechner-Data.txt
