@@ -1,5 +1,5 @@
 ###ABOUT:
-*In diesem Ordner befindet sich ein Beispiel zu einer Website.
+* In diesem Ordner befindet sich ein Beispiel zu einer Website.
 
 ###LICENSE:
 
