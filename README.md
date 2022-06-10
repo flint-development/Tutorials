@@ -1,7 +1,7 @@
 # Tutorials
 
 ### ABOUT:
-* f
+* In dieser repository befinden sich Tutorail (Datein) zu mehreren Programsprachen
 
 ### REQUIREMENTS:
 * Windows Commandline (cmd.exe)
