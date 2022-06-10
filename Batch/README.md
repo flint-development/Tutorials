@@ -6,7 +6,7 @@
 ### CONTENTS:
 [+] IFADMIN.bat - Ein Script was überprüft ob der Benutzer Adminrechte hat und !
 
-[+] key.vbs - Ein Script was deinen Windows Lizensschlüssel/Licencekey sowie deinen Officekey ausliest und zur zwischenablage kopiert!
+[+] IP-reader.bat - Ein Script was deine Internetadaptereinstellung und -informationen in einer txt-Datei speichert!
 
 ### LICENSE:
 ***Die Dateien in dieser repository sind Tutorails, sie dürfen diese öffentlich verwenden sowie modifizieren!***
